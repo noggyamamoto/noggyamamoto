@@ -3,10 +3,7 @@
 </p>
 
 <div align="center">
-  <!-- Título "Fixo" (Sem cursor, velocidade instantânea) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Pathway+Gothic+One&weight=700&size=40&speed=1&pause=1000000000&color=FFFFFF&center=true&vCenter=true&width=650&height=70&lines=Jo%C3%A3o+Nogueira&cursor=false" alt="João Nogueira" />
-  
-  <!-- Subtítulo Original com animação -->
+  <h1>João Nogueira</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Pathway+Gothic+One&weight=250&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=Back-end+%E2%80%A2+Mobile+%E2%80%A2+Embarcados" alt="Subtítulo" />
 </div>
 
